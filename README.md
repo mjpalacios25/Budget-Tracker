@@ -5,11 +5,11 @@
 ## Description
 This is a progressive web application (PWA) that tracks the user's expenses and displays the expenses in a graph. When offline, the user can still enter expenses that will be uploaded to the database.
 
-
 ## Features
-* Allows users to create new workouts;
-* Allows users to view past workouts;
-* Allows users to update and add exercises to workouts;
+* Allows users to enter expenses/revenues
+* Charts money flow on a chart
+* Allows for offline use
+* Allows for installation on a mobile device's home screen
 
 ## Bugs
 * No known bugs at this time
@@ -21,7 +21,9 @@ This is a progressive web application (PWA) that tracks the user's expenses and 
 * Express
 * JQuery
 * Bootstrap
+* Service Workers
+* Index DB 
 
 ## Link to Website
-Github: https://github.com/mjpalacios25/Fitness-Tracker 
-Heroku Deployment: https://shrouded-stream-05616.herokuapp.com/
+Github: https://github.com/mjpalacios25/Budget-Tracker
+Heroku Deployment: https://strawberry-sundae-77416.herokuapp.com/
